@@ -4,7 +4,7 @@ Scale is an easy way to access GPT-4 and other LLMs through deployed "apps" that
 
 Currently, Scale doesn't support token streaming and configuring parameters like temperature through SillyTavern's UI.
 
-**Scale API is not free, but offers a $5 trial if you link a credit card.**
+**Scale API is not free, but offers a $5 trial if you verify your phone number.**
 
 ## Quick Start
 
